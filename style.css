@@ -1,0 +1,51 @@
+#introduction-text{
+     text-align: left;
+    margin: 100px;
+
+}
+.intro-section{
+   padding-left: 56px;
+}
+#description-txt{
+    padding-left: 160px;
+    max-width: 1100px;
+}
+#portfolio-btn{
+    margin-top: 40px;
+    /* display: block; */
+  margin-left: 160px;
+  margin-right: auto;
+}
+.navbarItems{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 80px;
+}
+.logo{
+    margin-left: 80px;
+}
+.job-card{
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+.each-card{
+  margin-right: 40px;
+}
+.contacto-form{
+  margin-top: 80px;
+}
+.text-inputs{
+  style: none;
+  border-radius: 8px;
+  margin-top: 15px;
+  width: 445px;
+}
+.submit-button{
+  margin-top: 20px;
+  margin-left: 320px;
+  background-color: #809fff;
+  width: 120px;
+  color: white;
+  border: none;
+}
