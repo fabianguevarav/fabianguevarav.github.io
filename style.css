@@ -1,8 +1,12 @@
+body{
+  background-color: #003d99;
+  color: white;
+}
 #introduction-text{
      text-align: left;
-    margin: 100px;
-
+    margin: 80px;
 }
+
 .intro-section{
    padding-left: 56px;
 }
@@ -15,7 +19,11 @@
     /* display: block; */
   margin-left: 160px;
   margin-right: auto;
+  border-radius: 0px;
+  background-color: white;
+  color: #003d99;
 }
+
 .navbarItems{
     display: flex;
     justify-content: flex-end;
@@ -30,31 +38,18 @@
   margin-top: 100px;
 }
 .each-card{
-  margin-right: 40px;
+  margin: 0px 20px 20px ;
 }
-.contacto-form{
-  margin-top: 80px;
+.card{
+  color: black;
 }
-.text-inputs{
-  style: none;
-  border-radius: 8px;
-  margin-top: 15px;
-  width: 445px;
-}
-.submit-button{
-  margin-top: 20px;
-  margin-left: 320px;
-  background-color: #809fff;
-  width: 120px;
-  color: white;
-  border: none;
-}
+
 @media screen and (max-width: 375px)  {
  #introduction-text{
     font-size: 18px;
     width: 300px;
     margin-left: 20px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 32px;
   }.intro-section{
     padding-left: 0px;
