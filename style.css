@@ -65,5 +65,7 @@ body{
   }  body {
     background-color: #003d99;
     color: white;
+  }.logo{
+    margin-left: 20px;
   }
 }
