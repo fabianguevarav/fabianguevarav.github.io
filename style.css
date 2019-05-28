@@ -62,5 +62,6 @@ body{
       margin-top: -10px;
     margin-left: 20px;
     /* margin-right: auto; */
-  }
+  }  body {background-color: #003d99;
+    color: white;}
 }
