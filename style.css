@@ -49,7 +49,7 @@
   color: white;
   border: none;
 }
-@media screen and (max-width: 768px)  {
+@media screen and (max-width: 375px)  {
  #introduction-text{
     font-size: 18px;
     width: 300px;
